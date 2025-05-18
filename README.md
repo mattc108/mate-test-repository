@@ -1,3 +1,3 @@
 # git-test
 
-I am studyhing at Mate Academy!
+I am studying at Mate Academy!
